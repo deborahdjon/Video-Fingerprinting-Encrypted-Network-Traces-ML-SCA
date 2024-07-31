@@ -22,7 +22,7 @@ The outcomes of this research underscore the urgency of enhanced security measur
 
 
 ## Getting started
-The *src* directory contains the systems involved in our practicum, that being the DataHarvesting, the AttackScenario, the Condenser, and the Youtube Modelling and Analysis. This repository contains an amalgam of multiple repositories used during the practicum. Feel free to replicate our research. To get started, download the dataset from [kaggle](https://tbd).
+The *src* directory contains the systems involved in our practicum, that being the DataHarvesting, the AttackScenario, the Condenser, and the Youtube Modelling and Analysis. This repository contains an amalgam of multiple repositories used during the practicum. Feel free to replicate our research. To get started, download the dataset from [kaggle](https://www.kaggle.com/datasets/deborahdjon/video-fingerprinting-encrypted-network-traces-sca).
 
 Create a virtual environment
 
